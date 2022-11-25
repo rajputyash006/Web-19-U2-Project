@@ -6,35 +6,32 @@
 Ideakart is the first-of-its-kind marketplace for ideas. It also provides you with books at the best prices on the internet.
 
 # Tech Stack
-- Java
-- Spring Framework
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- MySQL
-- Swagger
-- Lombok
+- HTML
+- CSS
+- JavaScript
 
-# Modules
-- Login, Logout Module
-- Admin Module
-- User Module
-- Bus Module
-- Reservation Module
-- Route Module
-- Feedback Module 
+# Main Section
+- Navbar
+- Home Page
+- Login Page
+- Signup Page
+- About Page
+- Cart Page
+- Payment Page
+- Otp Page
+- Thank You Page 
+- Footer
 
 # Features
-- User and Admin authentication & validation with session uuid.
-- Admin Features:
-- Administrator Role of the entire application.
-- Only registered admins with valid session token can add/update/delete route and bus from main database.
-- Admin can access the details of different users and reservations.
+- Navbar - Users can move with diffrent pages from navbar.
+- Carousel Slider - Users can visit top trending books from the carousel.
+- Sign-Up - Users can sign-up themselves with the website
+- Sign-In - Without sign-in users can not buy any book
+- Cart - Add the book to buy in the cart and increase the quantity from the cart.
+- Payment - Coupon applies before payment and then the user can visit the payment page if the user is already logged in
+- Buy Book - process the book through payment and buy the book 
+- Filter - In books pages, users can filter the books on the bases of price and by rating
 
-- User Features:
-- Registering themselves with application, and logging in to get the valid session token.
-- Viewing list of available buses and booking a reservation.
-- Only logged in user can access his reservations, profile updation and other features.
 
 # Contributors
 - https://github.com/sanjanyadav420
