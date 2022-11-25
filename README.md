@@ -1,6 +1,6 @@
  # Ideakart Clone (Book E-Commerce Website)
 
-<img src="https://rajputyash006.github.io/images/prj1.PNG" alt="Coding" width="80%"/>
+<img src="https://rajputyash006.github.io/images/prj1.PNG" alt="Coding" width="70%" border-radius="10px";/>
 <br>
 
 Ideakart is the first-of-its-kind marketplace for ideas. It also provides you with books at the best prices on the internet.
