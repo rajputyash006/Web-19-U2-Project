@@ -34,7 +34,8 @@ Ideakart is the first-of-its-kind marketplace for ideas. It also provides you wi
 
 
 # Contributors
-- https://github.com/sanjanyadav420
-- https://github.com/rajputyash006
-- https://github.com/mukundjha1310
-- https://github.com/BhaveshShahani
+- https://github.com/aakarshpatel84
+- https://github.com/deepanshi-singh-125
+- https://github.com/AnujSingh001
+- https://github.com/Pritypaul 
+- https://github.com/meracodemahan
